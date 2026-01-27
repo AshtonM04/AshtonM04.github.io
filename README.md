@@ -10,12 +10,14 @@
     <ul>
       <li>GPA: 3.7;</li>
       <li>Maintained GPA and credit hour requirements for Bright Future Scholarship</li>
+      <li>Taken many high level courses</li>
     </ul>
     <h2>Ocoee High School; Ocoee, FL</h2>
     <ul>
       <li>GPA: 3.8;</li>
       <li>Graduated as on of the top 10 of the school</li>
-      <li>Achieved the requirements to receive the Bright Futures Full Ride Scholarship</li>
+      <li>Achieved Bright Futures Full Ride Scholarship</li>
+      <li>Was a part of the school honor society</li>
     </ul>
 
   <h1>Work Experience:</h1>
@@ -43,7 +45,8 @@
 
   <h1>Projects</h1>
     <ul>
-      <li></li>
+      <li>Two-Tier Client-Server Application Using MySQL and JDBC</li>
+      <li>Notepad++ Tutorial</li>
     </ul>
 
   <h1>Skills:</h1>

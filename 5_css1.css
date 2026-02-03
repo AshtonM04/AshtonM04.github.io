@@ -1,0 +1,62 @@
+body {
+	background-color: lightblue;
+}
+
+h1 {
+	text-align: center;
+	font-family: Arial;
+	font-size: 45px;
+}
+
+h2 {
+	font-family: Arial;
+	font-size: 25px;
+}
+
+#paragraph2 {
+	box-sizing: content-box;
+	background: white;
+	border: 4px solid green;
+	width: 850px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 40px;
+	padding-left: 40px;
+	line-height: 1.8;
+	margin-left: 20px;
+}
+
+p.blue {
+	background: darkblue;
+	color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+
+ol {
+	list-style: decimal-leading-zero;
+	margin-left: -14px;
+}
+
+p a {
+	color: red;
+}
+
+table, th, td {
+	border: 1px solid;
+	border-collapse: collapse;
+}
+
+th {
+	background: lightgrey;
+}
+
+td {
+	background: white;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-right: 10px;
+	padding-left: 10px;
+}

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Asynchronous pokemon fetch</title>
+        <link rel="stylesheet" href="synchro.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<script src="synchroFetch.js"></script>
+    </head>
+	
+	<body>
+		<div id="pokedexScreen">
+			<label for="pokeSearch">Name or ID</label><br><input id="pokeSearch" type="text">
+			<button type="button" onclick="fetchPokemon()">Find</button><br><br>
+			<img src="MissingNo.1.jpeg" alt="Missingno" id="pokeImage"></img><br><br>
+			<audio id="pokeCry" controls>
+				<source id="ogg_src" src="" type="audio/ogg">
+			</audio><br><br>
+			<section id="moveMenus">
+				<select class="moveList" id="move1"> 
+				</select>
+				<select class="moveList" id="move2"> 
+				</select>
+				<select class="moveList" id="move3"> 
+				</select>
+				<select class="moveList" id="move4"> 
+				</select>
+			</section><br><br>
+			<button id="add" onclick="addToTeam()">Add to Team</button>
+		</div>
+	</body>
+	
+</html>
